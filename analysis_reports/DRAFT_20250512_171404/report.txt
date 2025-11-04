@@ -1,0 +1,25 @@
+ARTICLE-TO-TOPIC ANALYSIS REPORT
+==================================================
+Document: draft test.txt
+Status: VALID
+
+TOPIC MAPPING:
+--------------------------------------------------
+Topic 0: Article 1 (score: 0.99)
+   Keywords: official, language, shall, greek, turkish
+Topic 1: Article 1A (score: 1.00)
+   Keywords: republic, flag, greek, shall, turkish
+Topic 2: Article 2 (score: 1.00)
+   Keywords: community, belong, turkish, greek, group
+Topic 3: Article 3 (score: 1.00)
+   Keywords: greek, turkish, community, shall, right
+Topic 4: Article 4 (score: 1.00)
+   Keywords: official, language, shall, turkish, republic
+Topic 5: Article 5 (score: 0.98)
+   Keywords: community, belong, republic, greek, group
+
+STATISTICS:
+- Articles: 6
+- Topics: 6
+- Readability: 32.1
+==================================================
